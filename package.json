@@ -1,0 +1,24 @@
+{
+  "name": "puppeteer-scraping-demo",
+  "version": "1.0.0",
+  "description": "My first project using Puppeteer to scrap web content with NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisGilGB/puppeteer-scraping-demo.git"
+  },
+  "keywords": [
+    "scraper",
+    "puppeteer",
+    "node"
+  ],
+  "author": "Luis Gil Gutiérrez de la Barreda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisGilGB/puppeteer-scraping-demo/issues"
+  },
+  "homepage": "https://github.com/LuisGilGB/puppeteer-scraping-demo#readme"
+}
