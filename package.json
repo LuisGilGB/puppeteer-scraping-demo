@@ -2,8 +2,9 @@
   "name": "puppeteer-scraping-demo",
   "version": "1.0.0",
   "description": "My first project using Puppeteer to scrap web content with NodeJS.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/LuisGilGB/puppeteer-scraping-demo/issues"
   },
-  "homepage": "https://github.com/LuisGilGB/puppeteer-scraping-demo#readme"
+  "homepage": "https://github.com/LuisGilGB/puppeteer-scraping-demo#readme",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
 }
